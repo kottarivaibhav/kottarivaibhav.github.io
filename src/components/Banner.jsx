@@ -39,7 +39,7 @@ const BannerSection = () => {
           </a>
         </li>
         <li>
-          <a href='https://www.linkedin.com/in/vaibhav-kottari/' target="_blank" rel="noopener noreferrer">
+          <a href='https://www.linkedin.com/in/vaibhavkottari/' target="_blank" rel="noopener noreferrer">
             <img src={LinkedIn} className='w-8 h-8 md:w-10 md:h-10 hover:scale-110 transition-transform duration-200' alt="LinkedIn" />
           </a>
         </li>
